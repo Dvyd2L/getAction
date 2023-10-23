@@ -1,4 +1,4 @@
-import getAction from '../src/getAction';
+import getAction from '../getAction';
 
 //Prueba unitarias para la función `getAction` utilizando Jest:
 describe('getAction', () => {

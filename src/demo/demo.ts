@@ -1,4 +1,4 @@
-import getAction from '../src/getAction';
+import getAction from '../getAction';
 import { IDefaultAction } from '../interfaces/default';
 
 interface IAnyKey {
