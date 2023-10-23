@@ -1,6 +1,7 @@
 # Documentación de la función getAction
 
 ## Descripción
+
 La función getAction es una función de TypeScript que selecciona y ejecuta una acción basada en una clave proporcionada. Esta función es útil cuando necesitas mapear diferentes acciones a diferentes claves.
 
 ## Uso
