@@ -1,4 +1,4 @@
-import { IDefaultAction } from './interfaces/default';
+import { IDefaultAction } from './interfaces/DefaultAction';
 
 /**
  * Pedir documentación a chatGPT
